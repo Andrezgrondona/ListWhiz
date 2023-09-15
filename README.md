@@ -8,8 +8,10 @@ Este proyecto es una aplicación móvil de tareas pendientes (ToDo) desarrollada
 
 ## Logo
 ![Logo](https://i.postimg.cc/PfvZ03gt/1.png)
+
 ## Home
 ![Logo](https://i.postimg.cc/gjmrYSfn/Screenshot-1694789266.png)
+
 ## tareas Guardadas
 ![Logo](https://i.postimg.cc/BZBXh3KD/Screenshot-1694789383.png)
 
